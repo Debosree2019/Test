@@ -2,3 +2,4 @@ Shirt
 Saree
 Pant
 Skirt
+Pajama
