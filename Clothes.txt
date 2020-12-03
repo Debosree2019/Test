@@ -1,0 +1,4 @@
+Shirt
+Saree
+Pant
+Skirt
